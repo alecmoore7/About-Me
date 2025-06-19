@@ -32,4 +32,4 @@ I’m currently:
 
 ---
 
-💬 _"Good software solves problems. Great software puts the user first."_# About-Me
+💬 _"Good software solves problems. Great software puts the user first."_
